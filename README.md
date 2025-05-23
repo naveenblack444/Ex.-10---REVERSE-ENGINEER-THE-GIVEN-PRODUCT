@@ -33,10 +33,14 @@
 ## Input:
 
 ### Output:
+![image](https://github.com/user-attachments/assets/a33baea5-b8bb-4133-b679-3b8372b03cee)
+![image](https://github.com/user-attachments/assets/1860a4e0-5eec-4e25-8ec6-14873e21c142)
 
 
-### Name:
-### Register Number:
+
+
+### Name: Naveen R
+### Register Number:212224110040
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
